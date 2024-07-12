@@ -8,7 +8,7 @@ This project demonstrates parallel image processing using CUDA to accelerate the
 - Performance comparison with CPU-based implementation
 - OpenCV integration for image handling
 
-## Requirements
+## Technologies Used
 
 - CUDA 12.5
 - Visual Studio 2022
