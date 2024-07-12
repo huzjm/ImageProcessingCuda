@@ -17,3 +17,4 @@ This project demonstrates parallel image processing using CUDA to accelerate the
 ## Performance
 
 The CUDA-based Gaussian blur significantly reduces processing time compared to the CPU-based implementation. Execution times are measured and printed in the console output.
+![Comparison of CPU and GPU execution times](Images/result.jpg)
